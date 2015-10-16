@@ -17,5 +17,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'rubocop'
   gem 'rubocop-rspec'
+  gem 'simplecov'
+  gem 'simplecov-rcov'
   gem 'web-console', '~> 2.0'
 end
